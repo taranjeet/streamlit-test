@@ -1,1 +1,1 @@
-embedchain
+embedchain==0.1.33
